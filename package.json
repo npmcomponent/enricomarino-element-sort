@@ -1,0 +1,11 @@
+{
+  "name": "enricomarino-element-sort",
+  "description": "sort, plugin for element",
+  "version": "0.0.1",
+  "keywords": [
+    "sort",
+    "element"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
